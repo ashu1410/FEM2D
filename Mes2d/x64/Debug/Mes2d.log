@@ -1,0 +1,5 @@
+﻿  Siatka.cpp
+c:\users\ash\desktop\mes2d\mes2d\siatka.cpp(418): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ash\desktop\mes2d\mes2d\siatka.cpp(418): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Mes2d.vcxproj -> C:\Users\Ash\Desktop\Mes2d\x64\Debug\Mes2d.exe
+  Mes2d.vcxproj -> C:\Users\Ash\Desktop\Mes2d\x64\Debug\Mes2d.pdb (Partial PDB)

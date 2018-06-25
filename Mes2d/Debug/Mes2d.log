@@ -1,0 +1,6 @@
+﻿  Siatka.cpp
+c:\users\ashu\source\repos\mes2d\mes2d\siatka.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashu\source\repos\mes2d\mes2d\siatka.cpp(411): warning C4018: '<': signed/unsigned mismatch
+c:\users\ashu\source\repos\mes2d\mes2d\siatka.cpp(441): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\ashu\source\repos\mes2d\mes2d\siatka.cpp(441): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Mes2d.vcxproj -> C:\Users\Ashu\source\repos\Mes2d\Debug\Mes2d.exe
